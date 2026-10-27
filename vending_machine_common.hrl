@@ -1,0 +1,2 @@
+-record(money, {value, amount}).
+-record(item, {name, price, amount}).

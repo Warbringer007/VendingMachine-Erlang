@@ -1,0 +1,9 @@
+# Compiled modules (build them with: erlc *.erl)
+*.beam
+erl_crash.dump
+
+# Mnesia database (create it with: vending_machine_server:init_db().)
+Mnesia.*/
+
+# Temporary databases left behind if a test run is interrupted
+test_db_*/
